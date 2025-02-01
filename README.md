@@ -70,3 +70,7 @@
 ## Disclaimer
 
 OpenSea Vanity URLs may change from time to time.
+
+## Contact me for work
+
+[Telegram](https://t.me/sesto_dev) - [Email](mailto:accretence@gmail.com)
